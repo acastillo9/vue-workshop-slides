@@ -477,7 +477,7 @@ class: text-center
 
 # Referencias
 
-[Demos](https://codesandbox.io/s/vue-workshop-demos-j6mclp) · [ToDo App](https://codesandbox.io/s/vue-todo-app-components-xsdk0l) · [Vue.js Docs](https://vuejs.org/guide)
+[Demos](https://codesandbox.io/s/vue-workshop-demos-j6mclp) · [ToDo App](https://codesandbox.io/s/vue-todo-app-components-xsdk0l) · [Vue.js Docs](https://vuejs.org/guide) · [Presentación](https://github.com/acastillo9/vue-workshop-slides)
 
 ---
 
