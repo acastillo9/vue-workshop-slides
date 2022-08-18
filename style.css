@@ -1,0 +1,19 @@
+.filename {
+  font-size: 12px;
+  background-color: #1b1b1b;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 4px 4px 0 0;
+}
+.filename ~ .slidev-code-wrapper {
+  margin-top: 0 !important;
+}
+.filename ~ .slidev-code-wrapper .shiki-container .slidev-code {
+  border-radius: 0 4px 4px 4px !important;
+}
+iframe {
+  background-color: #FFF;
+}
+#slide-content {
+  overflow: scroll;
+}
